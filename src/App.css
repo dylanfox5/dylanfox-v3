@@ -2,11 +2,11 @@
 
 :root {
   --green: #295D09;
-  --white: #eeeeee;
+  --white: rgb(250, 250, 250);
 }
 
 .App {
-  background-color: #eeeeee;
+  background-color: var(--white);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
