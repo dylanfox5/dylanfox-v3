@@ -1,5 +1,5 @@
 .Home {
-    min-height: 100vh;
+    min-height: 90vh;
     display: flex;
     flex-direction: column;
     align-items: left;
@@ -9,7 +9,3 @@
 span {
     color: var(--green);
 }
-
-/* .home-title {
-    font-size: 500%;
-} */
