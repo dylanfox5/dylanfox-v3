@@ -6,6 +6,10 @@
     justify-content: center;
 }
 
-.home-title {
-    font-size: 500%;
+span {
+    color: var(--green);
 }
+
+/* .home-title {
+    font-size: 500%;
+} */

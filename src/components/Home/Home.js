@@ -8,11 +8,10 @@ function Home() {
   return (
     <Container className="Home">
         <Row>
-            <Col sm={12} lg={6} className="border">
-                <h1 className="home-title">dylan fox</h1>
+            <Col sm={12} lg={8}>
+                <h3 className="home-title">Hi, I'm <span>Dylan</span> -- an analytics focused developer who enjoys innovating solutions for complex problems.</h3>
             </Col>
-            <Col sm={12} lg={6} className="border">
-                <h1>dylan-fox</h1>    
+            <Col sm={12} lg={4}>
             </Col>
         </Row>
     </Container>

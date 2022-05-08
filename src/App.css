@@ -1,3 +1,8 @@
+:root {
+  --green: #295D09;
+  --white: #eeeeee;
+}
+
 .App {
   background-color: #eeeeee;
   min-height: 100vh;
