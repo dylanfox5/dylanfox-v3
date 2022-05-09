@@ -10,9 +10,9 @@ function About() {
             <Row>
                 <Col sm={12} lg={8} >
                     <h1 className='about-title'>about-me</h1>
-                    <p>
+                    <h5>
                         Leadership <span>//</span> Innovation <span>//</span> Problem-Solving
-                    </p>
+                    </h5>
                     <p>
                         I'm a strong advocate for serving others; choosing to have
                         the humility to put others first and care for others. A good leader must first be a good follower.
