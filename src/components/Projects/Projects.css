@@ -20,14 +20,15 @@
     color: black;
 }
 
-.icon {
+.folder-icon {
     font-size: 200%;
     margin-bottom: 2vh;
+    color: black;
 }
 
-/* .card:hover {
-    background-color: var(--space-blue) !important;
-} */
+.folder-icon:hover {
+    color: var(--green);
+}
 
 @media (min-width: 768px) {
     .card {
